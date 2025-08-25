@@ -35,6 +35,18 @@ ____________________________________________________
 ### Functions
 - TS allows types for both input and output values in functions
 - If a function returns a Promise, we have a Promise type as well which we can use.
+
+
+### Type Aliases
+- A type alias is nothing but a type name we create which can be used in multiple locations
+
+### Interfaces
+- Interfaces are another way to declare an object
+
+
+Types and interfaces are almost similar to each other, except that types cannot be modified afterwards, 
+
+
+### Narrowing
+- Refining types to get a more specific types than declared is called narrowing
 - 
-
-
